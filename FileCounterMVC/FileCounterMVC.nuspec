@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>filecountermvc</id>
+    <title>File Counter MVC</title>
+    <version>1.0.1</version>
+    <authors>Elliott Hamai</authors>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/projectkudu/SimpleWebSiteExtension</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A sample mvc Site Extension that counts the number of files in the web root</description>
+    <iconUrl>https://raw.githubusercontent.com/projectkudu/FileCounterSiteExtension/master/FileCounter50x50.png</iconUrl>
+    <tags>filecounter sample siteextension</tags>
+  </metadata>
+  <files>
+    <file src="**\*.*" target="content" />
+  </files>
+</package>
